@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">Cairo Tour Guide</string>
+
+    <string name="historic_places_fragment_label">Historic Places</string>
+    <string name="food_destinations_fragment_label">Food Destinations</string>
+    <string name="hotels_fragment_label">Hotels</string>
+    <string name="activities_and_events_fragment_label">Activities and Events</string>
+
+    <string name="location_wiki_url_not_provided_text">No link available</string>
+    <string name="location_phone_number_not_available_text">No phone number available</string>
+    <string name="location_info_not_available">No information available</string>
+    <string name="location_open_24_hours">Open 24 hours</string>
+
+</resources>

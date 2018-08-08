@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="grid_column_width">140dp</dimen>
+    <dimen name="grid_num_columns">2</dimen>
+    <dimen name="grid_items_spacing">2dp</dimen>
+
+    <dimen name="grid_item_text_size">16sp</dimen>
+    <dimen name="grid_item_single_line">48dp</dimen>
+    <dimen name="grid_item_two_line">64dp</dimen>
+    <dimen name="grid_item_text_padding">16dp</dimen>
+
+</resources>

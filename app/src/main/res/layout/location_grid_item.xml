@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/grid_item_image"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/grid_column_width"
+        android:scaleType="centerCrop" />
+
+    <TextView
+        android:id="@+id/grid_item_text"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/grid_item_single_line"
+        android:layout_gravity="bottom"
+        android:background="@color/grid_item_background_color"
+        android:padding="@dimen/grid_item_text_padding"
+        android:textColor="@android:color/white"
+        android:textSize="@dimen/grid_item_text_size" />
+
+</FrameLayout>

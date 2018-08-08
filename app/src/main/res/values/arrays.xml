@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Historic Places Data -->
+
+    <string-array name="historic_places_names">
+        <item>Giza Pyramids</item>
+        <item>Salahdin Citadel</item>
+        <item>Mosque-Madrassa of Sultan Hassan</item>
+        <item>Al-Azhar Mosque</item>
+        <item>Tahrir Square</item>
+        <item>Amir Taz Palace</item>
+        <item>Egyptian Museum</item>
+        <item>Mosque of Ibn Tulun</item>
+        <item>Sabeel Om Abbas</item>
+        <item>Al-Rifaie Mosque</item>
+        <item>Mosque of Muhammad Ali</item>
+        <item>Abdeen Palace</item>
+    </string-array>
+
+    <string-array name="historic_places_addresses">
+        <item>Al Haram, Nazlet El-Semman, Al Haram, Giza Governorate</item>
+        <item>Al Abageyah, Qesm Al Khalifah، Cairo Governorate</item>
+        <item>El-Darb El-Ahmar, Cairo Governorate</item>
+        <item>El-Darb El-Ahmar, Cairo Governorate</item>
+        <item>El-Tahrir Square, Qasr Ad Dobarah, Qasr an Nile, Cairo Governorate</item>
+        <item>27 Haret Al Syoufeya, El-Darb El-Ahmar, Cairo Governorate</item>
+        <item>15 Meret Basha, Ismailia, Qasr an Nile, Cairo Governorate</item>
+        <item>Tolon, El-Sayeda Zainab, Cairo Governorate</item>
+        <item>Al Saleeba, El-Darb El-Ahmar, Cairo Governorate</item>
+        <item>El-Refaey, El-Darb El-Ahmar, Cairo Governorate</item>
+        <item>Al Abageyah, Qism El-Khalifa, Cairo Governorate</item>
+        <item>El-Gomhoreya Square, Rahbet Abdin, Abdeen, Cairo Governorate</item>
+    </string-array>
+
+    <string-array name="historic_places_opening_hours">
+        <item>08:00AM – 05:00PM</item>
+        <item>09:00AM – 04:00PM</item>
+        <item>@string/location_info_not_available</item>
+        <item>@string/location_info_not_available</item>
+        <item>@string/location_open_24_hours</item>
+        <item>09:00AM – 04:30PM</item>
+        <item>09:00AM – 07:00PM</item>
+        <item>@string/location_info_not_available</item>
+        <item>@string/location_info_not_available</item>
+        <item>@string/location_info_not_available</item>
+        <item>@string/location_info_not_available</item>
+        <item>09:00AM – 03:00PM</item>
+    </string-array>
+
+    <string-array name="historic_places_phone_numbers">
+        <item>@string/location_phone_number_not_available_text</item>
+        <item>02 25121735</item>
+        <item>@string/location_phone_number_not_available_text</item>
+        <item>@string/location_phone_number_not_available_text</item>
+        <item>@string/location_phone_number_not_available_text</item>
+        <item>@string/location_phone_number_not_available_text</item>
+        <item>02 25794596</item>
+        <item>@string/location_phone_number_not_available_text</item>
+        <item>@string/location_phone_number_not_available_text</item>
+        <item>@string/location_phone_number_not_available_text</item>
+        <item>@string/location_phone_number_not_available_text</item>
+        <item>02 23916909</item>
+    </string-array>
+
+    <string-array name="historic_places_wiki_urls">
+        <item>https://en.wikipedia.org/wiki/Giza_pyramid_complex</item>
+        <item>https://en.wikipedia.org/wiki/Cairo_Citadel</item>
+        <item>https://en.wikipedia.org/wiki/Mosque-Madrassa_of_Sultan_Hassan</item>
+        <item>https://en.wikipedia.org/wiki/Al-Azhar_Mosque</item>
+        <item>https://en.wikipedia.org/wiki/Tahrir_Square</item>
+        <item>https://en.wikipedia.org/wiki/Amir_Taz_Palace</item>
+        <item>https://en.wikipedia.org/wiki/Egyptian_Museum</item>
+        <item>https://en.wikipedia.org/wiki/Mosque_of_Ibn_Tulun</item>
+        <item>https://ar.wikipedia.org/wiki/%D8%B3%D8%A8%D9%8A%D9%84_%D8%A3%D9%85_%D8%B9%D8%A8%D8%A7%D8%B3</item>
+        <item>https://en.wikipedia.org/wiki/Al-Rifa%27i_Mosque</item>
+        <item>https://en.wikipedia.org/wiki/Mosque_of_Muhammad_Ali</item>
+        <item>https://en.wikipedia.org/wiki/Abdeen_Palace</item>
+    </string-array>
+
+    <string-array name="historic_places_images">
+        <item>@drawable/pyramids</item>
+        <item>@drawable/citadel</item>
+        <item>@drawable/sultan_hassan_mosque</item>
+        <item>@drawable/azhar_mosque</item>
+        <item>@drawable/tahrir</item>
+        <item>@drawable/amir_taz_palace</item>
+        <item>@drawable/egyptian_museum</item>
+        <item>@drawable/ibn_tulun_mosque</item>
+        <item>@drawable/sabeel_om_abbas</item>
+        <item>@drawable/refai_mosque</item>
+        <item>@drawable/mohammed_ali_mosque</item>
+        <item>@drawable/abdeen_palace</item>
+    </string-array>
+
+
+    <!-- Hotels Data -->
+
+    <string-array name="hotels_names">
+        <item>Kempinski Nile Hotel </item>
+        <item>Ramses Hilton Hotel</item>
+        <item>Pyramids Plaza Hotel</item>
+        <item>Renaissance Cairo Mirage City</item>
+        <item>Four Seasons Hotel Cairo at Nile Plaza</item>
+        <item>Hotel Novotel Cairo El Borg</item>
+    </string-array>
+
+    <string-array name="hotels_addresses">
+        <item>12 Ahmed Ragheb, Cairo، Cairo Governorate 11519</item>
+        <item>1115 Nile Corniche, Sharkas, Cairo, Cairo Governorate 12344</item>
+        <item>King Faisal St, Kafr Nassar, Al Haram, Giza Governorate</item>
+        <item>Ring Road, Mirage City Box 250, Heliopolis, Cairo Governorate 11757</item>
+        <item>1089 Corniche El Nil, EG, 11519, Cairo Governorate</item>
+        <item>Gezira St, Cairo Governorate 11111</item>
+    </string-array>
+
+    <string-array name="hotels_phone_numbers">
+        <item>02 27980000</item>
+        <item>02 25777444</item>
+        <item>02 33833000</item>
+        <item>02 24063333</item>
+        <item>02 27917000</item>
+        <item>02 27356725</item>
+    </string-array>
+
+    <string-array name="hotels_images">
+        <item>@drawable/kempinski</item>
+        <item>@drawable/ramses_hilton</item>
+        <item>@drawable/pyramids_plaza</item>
+        <item>@drawable/renaissance</item>
+        <item>@drawable/four_seasons</item>
+        <item>@drawable/novotel</item>
+    </string-array>
+
+
+    <!-- Food Destinations Data -->
+
+    <string-array name="food_destinations_names">
+        <item>As-Saraya Nile Restaurant</item>
+        <item>Zooba </item>
+        <item>Koshary Abo Tarek</item>
+        <item>Sequoia</item>
+        <item>Abo Heidar Shawerma</item>
+        <item>Spectra El Shagara</item>
+        <item>Fish Market</item>
+        <item>Semsema Shawerma</item>
+    </string-array>
+
+    <string-array name="food_destinations_addresses">
+        <item>9 Gezira St, Giza Governorate</item>
+        <item>26th of July Corridor, Al Gabalayah, Zamalek, Cairo Governorate</item>
+        <item>Champollion Rd, Marouf, Qasr an Nile, Cairo Governorate</item>
+        <item>53 Abou El Feda, Zamalek, Cairo, 11211</item>
+        <item>Ibrahim Al Lakani el korba, El-Montaza, Heliopolis, Cairo Governorate</item>
+        <item>Cornish El Nile, Boulaq, Cairo Governorate</item>
+        <item>Oula, Giza, Giza Governorate</item>
+        <item>Al Dokki St, Ad Doqi, Giza Governorate</item>
+    </string-array>
+
+    <string-array name="food_destinations_opening_hours">
+        <item>@string/location_open_24_hours</item>
+        <item>08:00AM - 01:00AM</item>
+        <item>06:30AM - 11:00PM</item>
+        <item>12:00PM - 02:00AM</item>
+        <item>08:30AM – 01:30AM</item>
+        <item>11:00AM – 12:00AM</item>
+        <item>12:00PM – 01:00AM</item>
+        <item>11:00AM – 04:00AM</item>
+    </string-array>
+
+    <string-array name="food_destinations_phone_numbers">
+        <item>02 27383247</item>
+        <item>0127 480 0551</item>
+        <item>16760</item>
+        <item>02 27350014</item>
+        <item>02 22570871</item>
+        <item>19491</item>
+        <item>16770</item>
+        <item>0127 777 1981</item>
+    </string-array>
+
+    <array name="food_destinations_images">
+        <item>@drawable/saraya</item>
+        <item>@drawable/zooba</item>
+        <item>@drawable/abo_tarek</item>
+        <item>@drawable/sequoia</item>
+        <item>@drawable/abo_heidar</item>
+        <item>@drawable/spectra</item>
+        <item>@drawable/fish_market</item>
+        <item>@drawable/semsema</item>
+    </array>
+
+
+    <!-- Activities and Events Data -->
+
+    <string-array name="activities_and_events_names">
+        <item>Cairo Opera House</item>
+        <item>Al-Azhar Park</item>
+        <item>Merryland Park</item>
+        <item>Khan el-Khalili</item>
+        <item>Muizz Street</item>
+        <item>Son et lumière</item>
+    </string-array>
+
+    <string-array name="activities_and_events_addresses">
+        <item>Opera Land، EL GEZIRAH، Zamalek, Cairo Governorate</item>
+        <item>Salah Salem St, El-Darb El-Ahmar, Cairo Governorate</item>
+        <item>El-Montaza, Heliopolis, Cairo Governorate</item>
+        <item>El-Gamaleya, Qism El-Gamaleya, Cairo Governorate</item>
+        <item>Al Moez Ldin Allah Al Fatmi, El-Gamaleya, Qism El-Gamaleya, Cairo Governorate</item>
+        <item>Abol Hoal Square, Pyramids Giza, Haram, Cairo</item>
+    </string-array>
+
+    <string-array name="activities_and_events_opening_hours">
+        <item>@string/location_info_not_available</item>
+        <item>09:00AM – 10:00PM</item>
+        <item>09:00AM – 04:00PM</item>
+        <item>@string/location_info_not_available</item>
+        <item>@string/location_info_not_available</item>
+        <item>@string/location_info_not_available</item>
+    </string-array>
+
+    <string-array name="activities_and_events_phone_numbers">
+        <item>02 27370598</item>
+        <item>02 25103868</item>
+        <item>0122 267 8051</item>
+        <item>@string/location_phone_number_not_available_text</item>
+        <item>@string/location_phone_number_not_available_text</item>
+        <item>02 33852880</item>
+    </string-array>
+
+    <string-array name="activities_and_events_wiki_urls">
+        <item>https://en.wikipedia.org/wiki/Cairo_Opera_House</item>
+        <item>https://en.wikipedia.org/wiki/Al-Azhar_Park</item>
+        <item>@string/location_wiki_url_not_provided_text</item>
+        <item>https://en.wikipedia.org/wiki/Khan_el-Khalili</item>
+        <item>https://en.wikipedia.org/wiki/Muizz_Street</item>
+        <item>https://en.wikipedia.org/wiki/Son_et_lumi%C3%A8re_(show)</item>
+    </string-array>
+
+    <string-array name="activities_and_events_images">
+        <item>@drawable/opera</item>
+        <item>@drawable/azhar_park</item>
+        <item>@drawable/merryland</item>
+        <item>@drawable/khan_el_khalili</item>
+        <item>@drawable/moez_street</item>
+        <item>@drawable/sound_and_light_show</item>
+    </string-array>
+
+</resources>

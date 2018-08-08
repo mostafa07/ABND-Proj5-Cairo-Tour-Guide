@@ -5,9 +5,9 @@ It is the second and final project in the third course of the nanodegree "Multi-
 
 ***
 
-<img src="documentation/app_screenshot_1.png" width="250" title="App Screenshot 1"> <img src="documentation/app_screenshot_2.png" width="250" title="App Screenshot 2"> <img src="documentation/app_screenshot_3.png" width="250" title="App Screenshot 3">
+<img src="documentation/app_screenshot_1.png" width="260" title="App Screenshot 1"> <img src="documentation/app_screenshot_2.png" width="260" title="App Screenshot 2"> <img src="documentation/app_screenshot_3.png" width="260" title="App Screenshot 3">
 
-<img src="documentation/app_screenshot_4.png" width="250" title="App Screenshot 4"> <img src="documentation/app_screenshot_5.png" width="250" title="App Screenshot 5"> <img src="documentation/app_screenshot_6.png" width="250" title="App Screenshot 6">
+<img src="documentation/app_screenshot_4.png" width="260" title="App Screenshot 4"> <img src="documentation/app_screenshot_5.png" width="260" title="App Screenshot 5"> <img src="documentation/app_screenshot_6.png" width="260" title="App Screenshot 6">
 
 
 ***
@@ -24,10 +24,11 @@ The goal is to create a Tour Guide App which presents relevant information to a 
 ## App Overview:
 
 The app is presents tthe top attractions in my city, Cairo. It divides the places and locations into four categories:
-	1. Historic Places
-	2. Hotels
-	3. Food Destinations
-	4. Activities and Events
+
+1. Historic Places
+2. Hotels
+3. Food Destinations
+4. Activities and Events
 	
 Each of the four categories is presented in a Fragment, and a ViewPager is used to switch among them either by a swipe or by pressing the category from above, and I have added a ZoomOutPageTransformer that is triggered upon transformation from one category to another.
 
@@ -50,4 +51,4 @@ Opon clicking on a location, a wikipedia link would be opened using an implicit 
 #### Notes:
 
 - Places and locations images are downloaded from various sites on the internet.
-- App Icon is downloaded from [Flaticon](www.flaticon.com)
+- App Icon is downloaded from [Flaticon](www.flaticon.com).
